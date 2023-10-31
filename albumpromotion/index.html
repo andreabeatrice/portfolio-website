@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Chapter 1 | girl in red</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="icon" href="media/circle-cropped.ico">
+</head>
+<body>	
+
+		<div id="home">
+			<div id="flakes">
+				<img src="media/flake1.png" id="f1">
+				<img src="media/flake1.png" id="f2">
+				<img src="media/flake1.png" id="f3">
+				<img src="media/flake2.png" id="f4">
+				<img src="media/flake3.png" id="f5">
+				<img src="media/flake2.png" id="f6">
+				<img src="media/flake4.png" id="f7">
+			</div>
+
+			<div id="tracklist">
+						<img src="media/traclist.png" id="track1">
+						<img src="media/girls.png" id="track5" onclick="toL()">
+			</div>
+
+			<img src="media/explanation.png" id="ex" onclick="toX()">
+			<img src="media/title.png" id="title">
+			<img src="media/covergirl.png" id="girl">
+
+			<script type="text/javascript">
+				function video(){
+					window.location.href = "lyric.html";
+				}
+
+			</script>
+		</div>
+
+		<div id="lyrics">
+			<video controls poster="media/icon.jpg" id="video">
+			  <source src="media/final.mp4" type="video/mp4">
+			  Your browser does not support the video tag.
+			</video>
+			<img src="media/load.png" id="load">
+			<img src="media/arrow.png" id="arrow" onclick="toH()">
+		</div>
+
+		<div id="explanation">
+			<div id="left">
+				<img src="media/arrow.png" id="arrow2" onclick="toH()"><br/>
+
+			<table>
+				<tr>
+					<td>
+						<img src="media/rationale.png">
+						<p>
+							The colour scheme of this video was taken entirely from the original cover of girl in red's <i>chapter one</i> EP. The light and dark reds from the background, the white from the painted flowers, and the browns from the line art of a girl that overlays it. The light blue colour used on the navigational website is the inverse of the brown colour used for all text.
+							<br/>
+							That image of the girl directly inspired the font choice of the video- because there is no actual writing on the cover of the EP, I had to choose any fonts used myself. Becuase the cover looks like a hand-drawn/painted piece, I eventually, used a slightly stylized version of my own cursive handwriting. I tried to keep as close as possible to the original look of the art of the girl- solid brown lines, drawn in ink instead of paint.
+							<br/>
+							The art of the video was deisgned to emulate the rest of the cover- carefree painting and textures. That was why I animated the video using an Autodesk Sketchbook flipbook- because it was the best way to mimic the mediums used on the original cover, and furthermore the best way to create a feeling of the video being 'handmade' (because every frame is hand-drawn instead of animated by a computer).					
+							<br/>
+						</p>
+					</td>
+					<td>
+						<img src="media/plag.png"><br/>
+						<img src="media/plagarism.jpg" id="form">
+					</td>
+				</tr>
+			</table>
+		</div>
+
+		<div id="col"></div>
+
+	<script type="text/javascript">
+		var load = document.getElementById("load");
+		var video = document.getElementById("video");
+		video.style.visibility = "hidden";
+
+		var col = document.getElementById("col");
+		col.style.animationPlayState="paused";
+		var track5 = document.getElementById("track5");
+
+		var home = document.getElementById("home");
+		var lyrics = document.getElementById("lyrics");
+		var explanation = document.getElementById("explanation");
+
+		explanation.style.visibility = "hidden";
+
+		function toL(){
+			col.parentNode.removeChild(col);
+			document.body.appendChild(col);
+			
+
+			col.style.animationPlayState="running";
+			setTimeout(function(){
+				home.style.visibility = "hidden";
+				lyrics.style.visibility = "visible";
+				load.parentNode.removeChild(load);
+			document.body.appendChild(load);
+			load.style.visibility = "visible";
+				
+			}, 2000);
+
+			setTimeout(function(){
+				video.style.visibility = "visible";
+				load.style.visibility = "hidden";
+			},10000 );
+		}
+
+		function toH(){
+			col.parentNode.removeChild(col);
+			document.body.appendChild(col);
+			col.style.animationPlayState="running";
+			setTimeout(function(){
+				home.style.visibility = "visible";
+				lyrics.style.visibility = "hidden";
+				explanation.style.visibility = "hidden";
+				video.style.visibility = "hidden";
+			}, 2000);
+		}
+
+		function toX(){
+			col.parentNode.removeChild(col);
+			document.body.appendChild(col);
+			col.style.animationPlayState="running";
+			setTimeout(function(){
+				home.style.visibility = "hidden";
+			explanation.style.visibility = "visible";
+			}, 2000);
+		}
+
+
+	</script>
+</body>
+</html>

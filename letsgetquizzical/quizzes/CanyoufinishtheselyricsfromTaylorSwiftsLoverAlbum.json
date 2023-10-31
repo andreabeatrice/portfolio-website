@@ -1,0 +1,97 @@
+[
+    {
+        "QuizName": "Can you finish these lyrics from Taylor Swift's Lover Album?",
+        "QuizDescription": "It just matches this websites aesthetic so well!!!",
+        "QuizTags": "Taylor Swift, music, lyrics, lover album, song vibes"
+    },
+    {
+        "QuestionName": "You hold my hand on the street...",
+        "1": "...I turned around before I hit the tunnel",
+        "2": "...Walk me back to that apartment",
+        "3": "...I thought you were leading me on",
+        "4": "...I'd never walk Cornelia Street again",
+        "Correct": "2",
+        "numAnswers": "4",
+        "Lesson": "You hold my hand on the street\r<br \/>Walk me back to that apartment\r<br \/>Years ago, we were just inside\r<br \/>Barefoot in the kitchen\r<br \/>Sacred new beginnings\r<br \/>That became my religion, listen\r<br \/>~Cornelia Street (Track 9)",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Ladies and gentlemen, will you please stand?",
+        "1": "With every guitar string scar on my hand",
+        "2": "I've loved you three summers now, honey, but I want 'em all",
+        "3": "Swear to be overdramatic and true to my lover",
+        "4": "I take this magnetic force of a man to be my lover",
+        "Correct": "1",
+        "numAnswers": "4",
+        "Lesson": "Ladies and gentlemen, will you please stand?\r<br \/>With every guitar string scar on my hand\r<br \/>I take this magnetic force of a man to be my lover\r<br \/>My heart's been borrowed and yours has been blue\r<br \/>All's well that ends well to end up with you\r<br \/>Swear to be overdramatic and true to my lover\r<br \/>~Lover (Track 3)",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "\"I love you, \" ain't that the worst thing you ever heard?",
+        "1": "He looks so pretty like a devil",
+        "2": "I'm drunk in the back of the car",
+        "3": "Devils roll the dice, angels roll their eyes",
+        "4": "He looks up grinning like a devil",
+        "5": "What doesn't kill me makes me want you more",
+        "Correct": "4",
+        "numAnswers": "5",
+        "Lesson": "And I snuck in through the garden gate\r<br \/>Every night that summer just to seal my fate (oh)\r<br \/>And I screamed for whatever it's worth\r<br \/>\"I love you, \" ain't that the worst thing you ever heard?\r<br \/>He looks up grinning like a devil\r<br \/>~Cruel Summer (Track 2)",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "And obsessin' 'bout somebody else is no fun",
+        "1": "And I ain't trying mess with your self-expression",
+        "2": "Like, can you just not step on his gown?",
+        "3": "And snakes and stones never broke my bones so",
+        "4": "And shade never made anybody less gay so",
+        "Correct": "3",
+        "numAnswers": "4",
+        "Lesson": "And I ain't trying mess with your self-expression\r<br \/>But I've learned the lesson that stressin'\r<br \/>And obsessin' 'bout somebody else is no fun\r<br \/>And snakes and stones never broke my bones so\r<br \/>~You Need To Calm Down (Track 14)",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "But something happened, I heard him laughing...",
+        "1": "...They say home is where the heart is",
+        "2": "...Took me back to Highgate, met all of his best mates",
+        "3": "...I got drunk and made fun of the way you talk",
+        "4": "...He likes my American smile",
+        "5": "...I saw the dimples first and then I heard the accent",
+        "Correct": "5",
+        "numAnswers": "5",
+        "Lesson": "I love my hometown as much as Motown, I love SoCal\r<br \/>And you know I love Springsteen, faded blue jeans, Tennessee whiskey\r<br \/>But something happened, I heard him laughing\r<br \/>I saw the dimples first and then I heard the accent\r<br \/>They say home is where the heart is\r<br \/>But that's not where mine lives\r<br \/>~London Boy (Track 11)",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "What I was wearing, If I was rude...",
+        "1": "...And I'm so sick of them coming at me again",
+        "2": "...Could all be separated from my good ideas and power moves?",
+        "3": "...Wondering if I'd get there quicker If I was a man",
+        "4": "...I'd be a fearless leader, I'd be an alpha type",
+        "Correct": "2",
+        "numAnswers": "4",
+        "Lesson": "They'd say I hustled\r<br \/>Put in the work\r<br \/>They wouldn't shake their heads and question how much of this I deserve\r<br \/>What I was wearing\r<br \/>If I was rude\r<br \/>Could all be separated from my good ideas and power moves?\r<br \/>~The Man (Track 4)",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "They whisper in the hallway, \"she's a bad, bad girl\"...",
+        "1": "...The whole school is rolling fake dice",
+        "2": "...Voted most likely to run away with you",
+        "3": "...No cameras catch my muffled cries",
+        "4": "....It's you and me, That's my whole world",
+        "Correct": "1",
+        "numAnswers": "4",
+        "Lesson": "It's you and me\r<br \/>That's my whole world\r<br \/>They whisper in the hallway, \"she's a bad, bad girl\" (okay!)\r<br \/>The whole school is rolling fake dice\r<br \/>You play stupid games, you win stupid prizes\r<br \/>~Miss Americana & the Heartbreak Prince (Track 7)",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "And I cut off my nose just to spite my face...",
+        "1": "... and you bite your face to spite your nose",
+        "2": "...Who could ever leave me, darling?",
+        "3": "...And all of my heroes die all alone",
+        "4": "...Then I hate my reflection for years and years",
+        "Correct": "4",
+        "numAnswers": "4",
+        "Lesson": "Dark side, I search for your dark side\r<br \/>But what if I'm alright, right, right, right here?\r<br \/>And I cut off my nose just to spite my face\r<br \/>Then I hate my reflection for years and years\r<br \/>~The Archer (Track 5)",
+        "LessonImage": ""
+    }
+]

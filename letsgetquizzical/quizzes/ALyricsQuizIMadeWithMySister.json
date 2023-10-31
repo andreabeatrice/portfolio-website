@@ -1,0 +1,84 @@
+[
+    {
+        "QuizName": "A Lyrics Quiz I Made With My Sister",
+        "QuizDescription": "she kept complaining that the ones I made were too difficult",
+        "QuizTags": "lyric quiz, trivia, music"
+    },
+    {
+        "QuestionName": "We've gotta let go of all of our ghosts...",
+        "1": "...We both know we ain't kids no more.",
+        "2": "...There's a fire starting in my heart",
+        "3": "...When the rain is blowing in your face",
+        "4": "...I'm giving you up",
+        "Correct": "1",
+        "numAnswers": "4",
+        "Lesson": "from Send My Love (Adele)",
+        "LessonImage": "tW-uB_.gif"
+    },
+    {
+        "QuestionName": "Nobody's gonna slow me down...",
+        "1": "...I'm on the way to the promised land",
+        "2": "...No stop signs, Speed limit",
+        "3": "...Like a wheel, Gonna spin it",
+        "4": "...I'm on the highway to hell",
+        "Correct": "3",
+        "numAnswers": "4",
+        "Lesson": "from Highway to Hell (ACDC)",
+        "LessonImage": "highwaytohell_original_alb.jpg"
+    },
+    {
+        "QuestionName": "The times are changing and I'm getting old...",
+        "1": "...My bed is empty, and I'm getting cold.",
+        "2": "...you make my job a living hell.",
+        "3": "...you're not going to heaven.",
+        "4": "...Are you gonna hold me accountable?",
+        "Correct": "4",
+        "numAnswers": "4",
+        "Lesson": "from Problematic (Bo Burnham)",
+        "LessonImage": "problematic-bo.gif"
+    },
+    {
+        "QuestionName": "Tell them pretty faced girls tryna grabs each other...",
+        "1": "...And them undercover freaks who ain't nun' but trouble",
+        "2": "...You're too sexy to me",
+        "3": "...This girl straight and this girl not",
+        "4": "...People all around the world sexy motherf*****s",
+        "Correct": "1",
+        "numAnswers": "4",
+        "Lesson": "from Get Ugly (Jason Derulo) \u207d\u02b2\u1d43\u02e2\u1d52\u207f \u1d48\u1d49\u02b3\u1d58\u02e1\u1d52\u207e",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Well, the years start coming and they don't stop coming...",
+        "1": "...Hey now, you're an all-star, get your game on, go play",
+        "2": "...Fed to the rules and I hit the ground running",
+        "3": "...So what's wrong with taking the back streets?",
+        "4": "...someBODY ONCE TOLD ME",
+        "Correct": "2",
+        "numAnswers": "4",
+        "Lesson": "from All Star (Smash Mouth) (made famous by Shrek)",
+        "LessonImage": "AcclaimedExcellentBufeo-size_restricted.gif"
+    },
+    {
+        "QuestionName": "You're so self satisfied I don't need you...",
+        "1": "...I want to break free",
+        "2": "...I'm gonna break free",
+        "3": "...I've got to break free",
+        "4": "...I've fallen in love, yeah",
+        "Correct": "3",
+        "numAnswers": "4",
+        "Lesson": "from I Want To Break Free (Queen)",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "One hand in the air for the big city...",
+        "1": "...Street lights, big dreams, all lookin' pretty",
+        "2": "...Concrete jungle where dreams are made of",
+        "3": "...Now you're in New York ",
+        "4": "...City of sin, it's a pity on the whim",
+        "Correct": "1",
+        "numAnswers": "4",
+        "Lesson": "from Empire State of Mind (Alica Keys)",
+        "LessonImage": ""
+    }
+]

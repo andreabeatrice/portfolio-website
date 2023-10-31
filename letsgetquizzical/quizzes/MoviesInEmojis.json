@@ -1,0 +1,84 @@
+[
+    {
+        "QuizName": "Movies In Emojis",
+        "QuizDescription": "if you get all of them you're a certified genius",
+        "QuizTags": "emojis, emoji quiz, movies, easy"
+    },
+    {
+        "QuestionName": "\u26af\u26a1\ud83e\uddf9\ud83d\udcd6\ud83d\udc09\ud83e\uddd9\ud83c\udffb\u200d\u2642\ufe0f",
+        "1": "Harry Potter and the Goblet of Fire",
+        "2": "Lord of the Rings: The Fellowship of the Ring",
+        "3": "Snakes on a Plane",
+        "4": "The Magician's Apprentice",
+        "Correct": "1",
+        "numAnswers": "4",
+        "Lesson": "Harry Potter and the Goblet of Fire is a 2005 fantasy film directed by Mike Newell and distributed by Warner Bros. Pictures, based on J. K. Rowling's 2000 novel of the same name. Produced by David Heyman and written by Steve Kloves, it is the sequel to Harry Potter and the Prisoner of Azkaban (2004) and the fourth instalment in the Harry Potter film series. The film stars Daniel Radcliffe as Harry Potter, with Rupert Grint as Ron Weasley, and Emma Watson as Hermione Granger. Its story follows Harry's fourth year at Hogwarts as he is chosen by the Goblet of Fire to compete in the Triwizard Tournament.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "\ud83d\udc0d\u2708\ufe0f",
+        "1": "Star Wars: The Rise of the Jedi",
+        "2": "A Perfect Storm",
+        "3": "Snakes on a Plane",
+        "4": "The Girl with the Dragon Tattoo",
+        "Correct": "3",
+        "numAnswers": "4",
+        "Lesson": "Snakes on a Plane is a 2006 American action film directed by David R. Ellis and starring Samuel L. Jackson. It was released by New Line Cinema on August 18, 2006, in North America. The film was written by David Dalessandro, John Heffernan, and Sebastian Gutierrez and follows the events of hundreds of snakes being released on a passenger plane in an attempt to kill a trial witness.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "\ud83c\udf73\u2615\u2663\ufe0f",
+        "1": "Sleepless in Seattle",
+        "2": "The Breakfast Club",
+        "3": "The Wizard of Oz",
+        "4": "Breakfast at Tiffany's",
+        "Correct": "2",
+        "numAnswers": "4",
+        "Lesson": "The Breakfast Club is a 1985 American teen coming-of-age comedy-drama film written, produced, and directed by John Hughes. It stars Emilio Estevez, Anthony Michael Hall, Judd Nelson, Molly Ringwald and Ally Sheedy as teenagers from different high school cliques who spend a Saturday in detention with their authoritarian assistant principal (Paul Gleason).",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "\ud83c\udfa5\ud83c\udfc3\u200d\u2642\ufe0f\ud83c\udf32\ud83c\udf32\ud83c\udf32",
+        "1": "Twilight",
+        "2": "Children of the Corn",
+        "3": "Scary Movie",
+        "4": "The Blair Witch Project",
+        "Correct": "4",
+        "numAnswers": "4",
+        "Lesson": "The Blair Witch Project is a 1999 American supernatural horror film written, directed and edited by Daniel Myrick and Eduardo S\u00e1nchez. It is a fictional story of three student filmmakers\u2014Heather Donahue, Michael C. Williams, and Joshua Leonard\u2014who hike into the Black Hills near Burkittsville, Maryland, in 1994 to film a documentary about a local legend known as the Blair Witch. The three disappear, but their equipment and footage are discovered a year later. The purportedly \"recovered footage\" is the film the viewer sees. ",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "\ud83e\udddb\ud83d\udc98\ud83d\udc67\ud83c\udffb\ud83c\udf32\ud83c\udf74",
+        "1": "Forrest Gump",
+        "2": "Twilight",
+        "3": "The Ring",
+        "4": "Titianic",
+        "Correct": "2",
+        "numAnswers": "4",
+        "Lesson": "Twilight is a 2008 American romantic fantasy film based on Stephenie Meyer's 2005 novel of the same name. Directed by Catherine Hardwicke, the film stars Kristen Stewart and Robert Pattinson. It is the first film in The Twilight Saga film series. This film focuses on the development of the relationship between Bella Swan (a teenage girl) and Edward Cullen (a vampire), and the subsequent efforts of Edward and his family to keep Bella safe from a coven of evil vampires.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "\u267e\ufe0f\u2600\ufe0f\ud83e\udde0",
+        "1": "Eternal Sunshine of the Spotless Mind",
+        "2": "500 Days of Summer",
+        "3": "Apollo 13",
+        "4": "A Walk to Remember",
+        "Correct": "1",
+        "numAnswers": "4",
+        "Lesson": "Eternal Sunshine of the Spotless Mind (also simply known as Eternal Sunshine) is a 2004 American romantic science-fiction film written by Charlie Kaufman and directed by Michel Gondry. It follows an estranged couple who have erased each other from their memories. Pierre Bismuth created the story with Kaufman and Gondry. The ensemble cast includes Jim Carrey, Kate Winslet, Kirsten Dunst, Mark Ruffalo, Elijah Wood, and Tom Wilkinson. The title of the film is a quotation from the 1717 poem Eloisa to Abelard by Alexander Pope.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "\ud83d\udd70\ufe0f\ud83d\udd27\ud83c\udf4a",
+        "1": "A Clockwork Tangerine",
+        "2": "A Clockwork Orange",
+        "3": "2001: A Space Odyssey ",
+        "4": "Dr Strangelove",
+        "Correct": "2",
+        "numAnswers": "4",
+        "Lesson": "A Clockwork Orange is a 1971 dystopian crime film adapted, produced, and directed by Stanley Kubrick, based on Anthony Burgess's 1962 novel of the same name. It employs disturbing, violent images to comment on psychiatry, juvenile delinquency, youth gangs, and other social, political, and economic subjects in a dystopian near-future Britain.",
+        "LessonImage": ""
+    }
+]

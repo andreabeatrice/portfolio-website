@@ -1,0 +1,17 @@
+[
+    {
+        "QuizName": "The Quizzical Quiz",
+        "QuizDescription": "How Well Do You Know Quizzes?",
+        "QuizTags": "quiz vibes, i made this instead of sleeping"
+    },
+    {
+        "QuestionName": "In a fit of emotion, you cast an item into the fireplace. What is it?",
+        "1": "...late nights in the middle of June",
+        "2": "Ricotta",
+        "3": "...I'm selfish I know",
+        "Correct": "1",
+        "numAnswers": "3",
+        "Lesson": ":)",
+        "LessonImage": ""
+    }
+]

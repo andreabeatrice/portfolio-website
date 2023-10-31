@@ -1,0 +1,123 @@
+[
+    {
+        "QuizName": "Test Your Greendale Knowledge",
+        "QuizDescription": "Just some questions to test how well you know Greendale",
+        "QuizTags": "community college, general knowledge, greendale"
+    },
+    {
+        "QuestionName": "Which of these sports programs has never been offered by Greendale?",
+        "1": "Basketball",
+        "2": "Billiards",
+        "3": "Polo",
+        "4": "Diving",
+        "Correct": "3",
+        "numAnswers": "4",
+        "Lesson": "While Greendale Community College offers water polo (mentioned in `Basic Intergluteal Numismatics`), it does not offer regular polo.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Which of these is not a course provided by Greendale?",
+        "1": "Pre-Menopausal Post-Feminist Experiential Marketing",
+        "2": "History of the Irish Potato Famine",
+        "3": "Physics",
+        "4": "Opinions",
+        "5": "Computery Science",
+        "Correct": "3",
+        "numAnswers": "5",
+        "Lesson": "Physical Education, Physical Education Education, Chemistry, and Biology, but it's never explicitly understood to offer a basic Physics Course.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Pick the one that IS a Greendale Strudent Club:",
+        "1": "Club Club Club",
+        "2": "Anime Club",
+        "3": "Irish Club",
+        "4": "Advanced Advanced Decomposition Club",
+        "5": "Yearbook Club",
+        "Correct": "1",
+        "numAnswers": "5",
+        "Lesson": "Both the Club Club and the Club Club Club are mentioned in the episode `Modern Espionage`.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Greendale prides itself in 5 categories which the school excels at (the 5 As). Pick the answer that is NOT one of the 5 As:",
+        "1": "A Lot of Classes",
+        "2": "Antics ",
+        "3": "Air Conditioning",
+        "4": "Awesome New Friends",
+        "5": "Affordability",
+        "Correct": "2",
+        "numAnswers": "5",
+        "Lesson": "The five As of Greendale are:\r\nAccessibility\r\nAffordability\r\nAir Conditioning\r\nAwesome New Friends\r\nA Lot of Classes",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "When was the Air Conditioning Repair school established?",
+        "1": "1983",
+        "2": "1977",
+        "3": "2010",
+        "4": "1979",
+        "Correct": "4",
+        "numAnswers": "4",
+        "Lesson": "The Air Conditioning School was founded in 1979. Its Latin motto, \"Locus Est In Perfecta Temperantia\" translates literally to \"The Place Is In Perfect Temperature.\"",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Pick the outfit the Dean HAS NOT worn:",
+        "1": "Caesar",
+        "2": "Jeff",
+        "3": "Tina Turner",
+        "4": "Serious Dean",
+        "5": "Chang",
+        "6": "Lady Justice",
+        "Correct": "2",
+        "numAnswers": "6",
+        "Lesson": "He dressed as Caesar & Tina Turner in 'Paradigms of Human Memory', the Serious Dean in both 'Biology 101' and flashback episode 'Heroic Origins', Chang in 'Intro to Recycled Cinema' and Lady Justice in 'Introduction to Finality'.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "The rules of the Sun Chamber are as follows (pick the incorrect option):",
+        "1": "The chamber itself is divided into two separate rooms, each installed with a broken air conditioner.",
+        "2": "The temperature of the chamber steadily increases.",
+        "3": "Two men enter and one man leaves.",
+        "4": "THERE AREN'T ANY!!!",
+        "Correct": "4",
+        "numAnswers": "4",
+        "Lesson": "While Dennis provides colorful introduction to the event in which he claims that \"You already know the rules..BECAUSE THERE AREN'T ANY!!!,\" he is then replaced by another A\/C student named Russo who explained the rules. ",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Pick the person that was NOT a guest on 'Troy and Abed in the Morning':",
+        "1": "Garrett",
+        "2": "Evil Ben Chang",
+        "3": "Annie",
+        "4": "Dr. Rich",
+        "Correct": "1",
+        "numAnswers": "4",
+        "Lesson": "Garrett is, in fact, the weatherman for Troy and Abed in the Morning.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Pick the one that has never been a Changuage pun:",
+        "1": "Don't Chang the subject!",
+        "2": "Like the back of my Chang!",
+        "3": "That's EnterChangment!",
+        "4": "They're my Changers-on!",
+        "Correct": "4",
+        "numAnswers": "4",
+        "Lesson": "Honestly, I was just proud I managed to come up with one that hadn't been used on the show. But I guess Chang didn't have a lot of hangers-on, except for that brief stint where he was a dictator.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Which one of these wasn't part of the Rhyme Time running gag:",
+        "1": "Nice try, Stephen Fry",
+        "2": "You're on your own, Al Capone",
+        "3": "What's the deal, Jessica Biel",
+        "4": "You do so, Anthony Russo",
+        "5": "Well well well, Harvey Keitel",
+        "Correct": "4",
+        "numAnswers": "5",
+        "Lesson": "Considering that Anthony Russo worked on many Community episodes, that would've been pretty bizarre.",
+        "LessonImage": ""
+    }
+]

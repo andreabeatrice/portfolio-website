@@ -1,0 +1,91 @@
+[
+    {
+        "QuizName": "If You Can Find The 9 Real Monopoly Properties, You're Legally The \"Board Game Friend\"",
+        "QuizDescription": "But if you can't, prepare for the Water Works.",
+        "QuizTags": "monopoly, trivia"
+    },
+    {
+        "QuestionName": "Which of the brown properties is the real one?",
+        "1": "Celtic Avenue",
+        "2": "Baltic Avenue",
+        "Correct": "2",
+        "numAnswers": "2",
+        "Lesson": "This $60 property is the favourite of those unfortunate enough to roll a 3 on turn 1.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Which is the true light blue?",
+        "1": "Vermont Avenue",
+        "2": "Delaware Avenue",
+        "3": "Venice Avenue",
+        "Correct": "1",
+        "numAnswers": "3",
+        "Lesson": "Vermont Ave is one of the most likely squares to land on in the first turn, so it's bound to be brought up early!",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Which of these Saints is in the light purple group?",
+        "1": "St. James Place",
+        "2": "St. Charles Place",
+        "Correct": "2",
+        "numAnswers": "2",
+        "Lesson": "St. Charles Place is the light purple property, and St. James is an orange! If you didn't get tripped up here, you must be a Monopoly fiend!",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Which southern state is part of the oranges?",
+        "1": "Alabama Avenue",
+        "2": "Tennessee Avenue",
+        "3": "Carolina Avenue",
+        "Correct": "2",
+        "numAnswers": "3",
+        "Lesson": "Tennessee Avenue\r\nI rarely buy the orange properties, so Tennessee Avenue makes me shudder at paying $950 because of a hotel.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Which of these is the real Railroad?",
+        "1": "B&O Railroad",
+        "2": "B&R Railroad",
+        "Correct": "1",
+        "numAnswers": "2",
+        "Lesson": "B&O stands for Baltimore and Ohio, something I didn't know until about 5 seconds ago!",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Which of these properties is one of the reds?",
+        "1": "Michigan Avenue",
+        "2": "Illinois Avenue",
+        "Correct": "2",
+        "numAnswers": "2",
+        "Lesson": "Illinois is one of the most commonly landed on squares, based on it being 14 spaces away from jail. Having a Chance Card might send you there, too.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Ok, this yellow property has a pretty silly name. But what is it?",
+        "1": "Marvin Gardens",
+        "2": "Melvin Terrace",
+        "Correct": "1",
+        "numAnswers": "2",
+        "Lesson": "This is my favourite property on the board, and I will trade you all 4 Railroads for it.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Which of these green properties is legit?",
+        "1": "North Carolina Avenue",
+        "2": "South Carolina Avenue",
+        "Correct": "1",
+        "numAnswers": "2",
+        "Lesson": "I always call this one \"NorCalAve.\" My friends love it.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "And lastly, what's Boardwalk's partner in crime?",
+        "1": "Park Place",
+        "2": "Park Street",
+        "3": "Park Avenue",
+        "Correct": "1",
+        "numAnswers": "3",
+        "Lesson": "If you can get both Boardwalk and Park Place, you're bound to win the game, as long as your opponents don't flip the board!",
+        "LessonImage": ""
+    }
+]

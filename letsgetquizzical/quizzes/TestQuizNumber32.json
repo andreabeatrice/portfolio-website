@@ -1,0 +1,19 @@
+[
+    {
+        "QuizName": "Test Quiz Number 32",
+        "QuizDescription": "How Well Do You Know Quizzes?",
+        "QuizTags": "quiz vibes, i made this instead of sleeping"
+    },
+    {
+        "QuestionName": "In a fit of emotion, I cast an item into the fireplace. What was it?",
+        "1": "a tear-stained letter",
+        "2": "a family photograph",
+        "3": "a signed confession",
+        "4": "the ashes of a lover",
+        "5": "a wedding ring",
+        "Correct": "5",
+        "numAnswers": "5",
+        "Lesson": "This quiz is what I used to test submission functionality so that I didn't have to answer genuine questions",
+        "LessonImage": ""
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "QuizName": "The Ultimate Vampire Quiz \ud83e\udddb\ud83e\udddb",
+        "QuizDescription": "this could be life or death, you know",
+        "QuizTags": "vampires, trivia, life skills, \ud83e\udddb\ud83e\udddb\ud83e\udddb"
+    },
+    {
+        "QuestionName": "Which of these is NOT a power of vampires? (in the Buffy-verse)",
+        "1": "Immortality",
+        "2": "Accelerated healing",
+        "3": "Claiming",
+        "4": "Immunity to telepathy",
+        "5": "Thrall",
+        "Correct": "3",
+        "numAnswers": "5",
+        "Lesson": "Claiming is a trope that arose in Buffy the Vampire Slayer fandom, and in that fandom it refers to the vampiric version of mating for life.\r<br \/>This process often involves a vampire biting but not killing, and\/or sharing blood with a human. It sometimes involves ritual words spoken by the vampire making the claim.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Which of these Slayers did NOT die before the collapse of the Hellmouth in 2003?",
+        "1": "Faith Lehane",
+        "2": "Buffy Summers",
+        "3": "Nikki Wood",
+        "4": "Kendra Young",
+        "Correct": "1",
+        "numAnswers": "4",
+        "Lesson": "Spike killed Nikki Wood in the 1970s, Drusilla killed Kendra in 1998, and Buffy Summers died (and was resurrected) twice; once in 1997, and once in 2001.",
+        "LessonImage": "buffy__slayers_through_the_years_by_garciapenelope_d6ro5pr-fullview.jpg"
+    },
+    {
+        "QuestionName": "Pick the change that does NOT happen when a vampire shifts into ”Game Face”:",
+        "1": "Eyes become golden/yellow",
+        "2": "The disappearance of eyebrows",
+        "3": "Pronounced brow ridges appear",
+        "4": "They stop breathing",
+        "Correct": "4",
+        "numAnswers": "4",
+        "Lesson": "While vampires never <i>have</i> to breathe, they can, and so they don't have to stop when they shift.",
+        "LessonImage": "Buffy-The-Vampire-Slayer-Drusilla-Darla-As-Vampires.jpg"
+    },
+    {
+        "QuestionName": "Pick the option that will definitively kill a vampire:",
+        "1": "Starvation",
+        "2": "Being set on fire",
+        "3": "Exposure to garlic",
+        "4": "Being doused in holy water",
+        "Correct": "2",
+        "numAnswers": "4",
+        "Lesson": "Starvation will turn a vampire feral, but won't kill them. Exposure to garlic and holy water can ward vampires off, but old vampires can build up a tolerance. The only sure-fire way to kill a vampire are beheading, immolation, and a stake through the heart.",
+        "LessonImage": "buffy.gif"
+    },
+    {
+        "QuestionName": "Which  of these facts about Dracula is <b>false</b>?",
+        "1": "Dracula is one of the Old Ones",
+        "2": "He can shapeshift into a swarm of bees",
+        "3": "If Dracula were ever staked, he would seemingly die as he turned to dust, but only before appearing as a cloud of mist and reconstituting himself",
+        "4": "Dracula is instead  able to sense when lightning is about to strike",
+        "Correct": "1",
+        "numAnswers": "4",
+        "Lesson": "In the comics, Dracula was briefly transformed into Maloker, the powerful Old One who created the first vampire, whose essence lived on. However, he himself was never one of the Old Ones.",
+        "LessonImage": "Dracula.jpg"
+    }
+]

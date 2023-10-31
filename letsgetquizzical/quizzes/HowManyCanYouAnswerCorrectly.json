@@ -1,0 +1,96 @@
+[
+    {
+        "QuizName": " How Many Can You Answer Correctly?",
+        "QuizDescription": "This one is for everybody who was ever called a nerd",
+        "QuizTags": "general knowledge, trivia"
+    },
+    {
+        "QuestionName": "Lasagna is made with layers of meat, sauce, noodles, and typically what kind of cheese?",
+        "1": "Gruy\u00e9re",
+        "2": "Ricotta",
+        "3": "Goat",
+        "4": "Swiss",
+        "Correct": "2",
+        "numAnswers": "4",
+        "Lesson": "Ricotta is the creamy cheese usually used in Lasagna.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Napoleon Bonaparte, Charles de Gaulle, Winston Churchill, and Juan Carlos I were all leaders from countries on which continent?",
+        "1": "Asia",
+        "2": "Africa",
+        "3": "South America",
+        "4": "Europe",
+        "Correct": "4",
+        "numAnswers": "4",
+        "Lesson": "Napoleon Bonaparte was an emperor of France, Charles de Gaulle was a president of France, Winston Churchill was a prime minister of the United Kingdom, and Juan Carlos I was a king of Spain.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Which was longest in miles?",
+        "1": "The Oregon Trail",
+        "2": "The Silk Road",
+        "3": "They were both the same length",
+        "4": "Neither actually existed",
+        "Correct": "2",
+        "numAnswers": "4",
+        "Lesson": "The Silk Road was around 4,000 miles, while the Oregon Trail was around 2,000.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Which of the following bands hasn't had a John in it?",
+        "1": "The Beatles",
+        "2": "Queen",
+        "3": "The Rolling Stones",
+        "4": "Led Zeppelin",
+        "Correct": "3",
+        "numAnswers": "4",
+        "Lesson": "The Rolling Stones! The Beatles had John Lennon, Queen had John Deacon, and Led Zeppelin had John Paul Jones.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "How many time zones does the world have?",
+        "1": "6",
+        "2": "12",
+        "3": "18",
+        "4": "24",
+        "Correct": "4",
+        "numAnswers": "4",
+        "Lesson": "There are 24 time zones!",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Which of the following is not a romance language?",
+        "1": "German",
+        "2": "French",
+        "3": "Portuguese",
+        "4": "Italian",
+        "Correct": "1",
+        "numAnswers": "4",
+        "Lesson": "Unsurprisingly, German is a Germanic language.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Which of these is not a prime number?",
+        "1": "1",
+        "2": "13",
+        "3": "29",
+        "4": "63",
+        "5": "7",
+        "Correct": "4",
+        "numAnswers": "5",
+        "Lesson": "A prime number is any number that can only be evenly divided by 1 and itself.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Which of these countries is closest to Antarctica?",
+        "1": "New Zealand",
+        "2": "Fiji",
+        "3": "South Africa",
+        "4": "Chile",
+        "Correct": "4",
+        "numAnswers": "4",
+        "Lesson": "Chile! The Drake Passage is a 500-mile stretch that's the shortest distance between Antarctica and another land mass.",
+        "LessonImage": ""
+    }
+]

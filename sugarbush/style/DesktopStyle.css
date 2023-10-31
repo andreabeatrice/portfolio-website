@@ -1,0 +1,354 @@
+:root {
+    --gold: #F9D83F;
+    --light_orange: #FBD9BD;
+    --peach: #FFCAA5;
+    --saffron: #F0C56F;
+    --black: #0A0908;
+}
+
+@font-face {
+    font-family: "Blantick";
+    src: url("blantick_script/Blantick Script.ttf")
+}
+
+ 
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .desktop {
+        visibility: collapse;
+        display: none;
+    }
+
+    .mobile {
+        visibility: visible;
+        display: inline-block;
+        width: 100%;
+        left: 0;
+    }
+
+    body {
+        color: var(--black);
+        background-color:  rgba(240,197,111, 0.2);
+    }
+
+    h2 {
+        font-family: 'Blantick';
+        font-size: 15vh;
+        z-index: 2;
+        transform: rotate(-5deg); 
+    }
+
+    #welcome-block {
+        background-image: url("images/custard.gif");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    h1, h3{
+        color: #6C6B6A;
+    }
+
+    .larger-text{
+        font-size: 125%;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .desktop {
+        visibility: collapse;
+        display: none;
+    }
+
+    .mobile {
+        visibility: visible;
+        display: inline-block;
+        width: 100%;
+        left: 0;
+    }
+
+    body {
+        color: var(--black);
+        background-color:  rgba(240,197,111, 0.2);
+    }
+
+    h2 {
+        font-family: 'Blantick';
+        font-size: 15vh;
+        z-index: 2;
+        transform: rotate(-5deg); 
+    }
+
+    #welcome-block {
+        background-image: url("images/custard.gif");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    h1, h3{
+        color: #6C6B6A;
+    }
+
+    .larger-text{
+        font-size: 125%;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+       .desktop {
+        visibility: collapse;
+        display: none;
+    }
+
+    .mobile {
+        visibility: visible;
+        display: inline-block;
+        width: 100%;
+        left: 0;
+    }
+
+    body {
+        color: var(--black);
+        background-color:  rgba(240,197,111, 0.2);
+    }
+
+    h2 {
+        font-family: 'Blantick';
+        font-size: 15vh;
+        z-index: 2;
+        transform: rotate(-5deg); 
+    }
+
+    #welcome-block {
+        background-image: url("images/custard.gif");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    h1, h3{
+        color: #6C6B6A;
+    }
+
+    .larger-text{
+        font-size: 125%;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .desktop {
+        visibility: visible;
+        display: inline-block;
+        width: 100%;
+        left: 0;
+    }
+
+    .mobile {
+        visibility: collapse;
+        display: none;
+    }
+
+    body {
+        color: var(--black);
+        
+    }
+
+    nav { 
+        box-shadow: 2px 2px 8px rgba(150,130,113, 0.3);
+        
+    }
+
+
+    .navbar{
+        text-align: center;
+        height: 8vh;
+    }
+
+    .navbar-light {
+        background-color: rgba(249,216,63, 0.5);
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 120%;
+        color: rgba(10,9,8, 0.8);
+    }
+
+    .navbar-light .navbar-nav .nav-link:hover {
+        font-size: 120%;
+        color: rgba(10,9,8, 1);
+    }
+
+    .navbar-brand {
+        font-family: 'Blantick';
+        font-size: 8vh;
+        position: absolute;
+        left: 0;
+        padding-left: 1%;
+    }
+
+    h2 {
+        font-family: 'Blantick';
+        font-size: 15vh;
+        position: absolute;
+        z-index: 2;
+        padding-left: 12%;
+        padding-top: 10%;
+        transform: rotate(-5deg); 
+    }
+
+    #welcome-block {
+        background-image: url("images/transparent_logo.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+
+    .carousel {
+        top: 0 ;
+    }
+
+    h1, h3{
+        color: #6C6B6A;
+    }
+
+    #careers-text{
+        font-size: 125%;
+    }
+
+    .btn-warning{
+        border-radius: 15px;
+    }
+
+    .social-media {
+        font-size: 200%;
+        background-color: var(--peach);
+        color: var(--black);
+        padding: 4px 10px ;
+        border-radius: 30px;
+    }
+
+    .social-media:hover {
+        cursor: pointer;
+    }
+
+    #psa {
+        height: 7vh;
+    }
+
+    a:hover{
+        text-decoration: none;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .desktop {
+        visibility: visible;
+        display: inline-block;
+        width: 100%;
+        left: 0;
+    }
+
+    .mobile {
+        visibility: collapse;
+        display: none;
+    }
+
+    body {
+        color: var(--black);
+        
+    }
+
+    nav { 
+        box-shadow: 2px 2px 8px rgba(150,130,113, 0.3);
+        
+    }
+
+
+    .navbar{
+        text-align: center;
+        height: 8vh;
+    }
+
+    .navbar-light {
+        background-color: rgba(249,216,63, 0.5);
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 120%;
+        color: rgba(10,9,8, 0.8);
+    }
+
+    .navbar-light .navbar-nav .nav-link:hover {
+        font-size: 120%;
+        color: rgba(10,9,8, 1);
+    }
+
+    .navbar-brand {
+        font-family: 'Blantick';
+        font-size: 8vh;
+        position: absolute;
+        left: 0;
+        padding-left: 1%;
+    }
+
+    h2 {
+        font-family: 'Blantick';
+        font-size: 15vh;
+        position: absolute;
+        z-index: 2;
+        padding-left: 12%;
+        padding-top: 10%;
+        transform: rotate(-5deg); 
+    }
+
+    #welcome-block {
+        background-image: url("images/transparent_logo.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+
+    .carousel {
+        top: 0 ;
+    }
+
+    h1, h3{
+        color: #6C6B6A;
+    }
+
+    #careers-text{
+        font-size: 125%;
+    }
+
+    .btn-warning{
+        border-radius: 15px;
+    }
+
+    .social-media {
+        font-size: 200%;
+        background-color: var(--peach);
+        color: var(--black);
+        padding: 4px 10px ;
+        border-radius: 30px;
+    }
+
+    .social-media:hover {
+        cursor: pointer;
+    }
+
+    #psa {
+        height: 7vh;
+    }
+
+    a:hover{
+        text-decoration: none;
+    }
+
+    
+}

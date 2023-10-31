@@ -1,0 +1,51 @@
+[
+    {
+        "QuizName": "Horror Movie Trivia Quiz",
+        "QuizDescription": "\ud83e\udd40\ud83c\udf77\u26b0\ufe0f\ud83e\udd87\ud83e\udddb\ud83c\udffb\u200d\u2640\ufe0f\u2671\u26e7\ud83d\udd2a\u26b0\ud83d\udd6f\ud83e\udd87\ud83d\udde1\u2620\ud83e\uddc4\ud83d\udd78\ud83d\udd77\ufe0f",
+        "QuizTags": "movies, horror, halloween quizzes"
+    },
+    {
+        "QuestionName": "     What eerie film is credited with coining the notorious phrase, \u201cDo you like horror movies?\u201d ",
+        "1": "Scream (1996)",
+        "2": "The Exorcist (1973)",
+        "3": "Se7en (1995)",
+        "4": "Rogue (2007)",
+        "Correct": "1",
+        "numAnswers": "4",
+        "Lesson": "This line is spoken by Ghostface, voiced by Roger L. Jackson, in the movie Scream, directed by Wes Craven (1996).",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Which real-life serial murderer is indirectly based on Psycho? ",
+        "1": "H.H. Holmes",
+        "2": "Jack the Ripper",
+        "3": "Ed Gein",
+        "4": "Harold Shipman",
+        "Correct": "3",
+        "numAnswers": "4",
+        "Lesson": "Gein's haunting infatuation with his mother has now become a trope for many demented horror characters who kill \u2014 take Norman Bates in Alfred Hitchcock's Psycho (1960) as a prime example.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "What is the actual name of \u201cChucky\u201d in \u2018Child\u2019s Play\u2018?",
+        "1": "Lee Harvey Oswald ",
+        "2": "James Earl Ray ",
+        "3": "Chase Porter",
+        "4": "Charles Lee Ray",
+        "Correct": "4",
+        "numAnswers": "4",
+        "Lesson": "The reason it sounds both normal and terrifying is that it\u2019s a blend of three different serial killer names: Charles Manson, Lee Harvey Oswald \u2013 the sniper who assassinated John F. Kennedy in 1963, and James Earl Ray \u2013 the man who assassinated Martin Luther King, Jr.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "What Is The Exorcist\u2019s Demon\u2019s Name? ",
+        "1": "Pazuzu",
+        "2": "Azazel",
+        "3": "Crowley",
+        "4": "Wox",
+        "Correct": "1",
+        "numAnswers": "4",
+        "Lesson": "In ancient Mesopotamian religion, Pazuzu (Akkadian: \ud808\udc2d\ud808\udd46\ud808\ude92\ud808\udf6a\ud808\udf6a Dp\u00e0.zu.zu; also called Fazuzu or Pazuza) was the king of the demons of the wind, brother of Humbaba and son of the god Hanbi. He also represented the southwestern wind, the bearer of storms and drought",
+        "LessonImage": ""
+    }
+]

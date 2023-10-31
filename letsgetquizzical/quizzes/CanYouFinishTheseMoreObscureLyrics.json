@@ -1,0 +1,52 @@
+[
+    {
+        "QuizName": "Can You Finish These More Obscure Lyrics?",
+        "QuizDescription": "ik this is another lyrics quiz i have a lot of lyrics in my head and it's easy to stick with",
+        "QuizTags": "lyric quiz, trivia"
+    },
+    {
+        "QuestionName": "Hanging like a masterpiece",
+        "1": "...you're dancing with all your best friends",
+        "2": "...I knew right then, right there, it was so cinematic.",
+        "3": "...I kissed a girl and she liked it.",
+        "4": "...she's gonna rock your shit by the end of the night.",
+        "Correct": "1",
+        "numAnswers": "4",
+        "Lesson": "girls girls girls - FLETCHER",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "I'm gonna teach you some French...",
+        "1": "...oh you know I've been thinking about it",
+        "2": "...you know the deal.",
+        "3": "...headlight, hold tight.",
+        "4": "...it's getting hot in here.",
+        "Correct": "3",
+        "numAnswers": "4",
+        "Lesson": "Watch Me Burn - Michele Morrone",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "All us boys need something that they got...",
+        "1": "...met in a club, her name was Lola.",
+        "2": "...this one's for Elise.",
+        "3": "...this one's for Norma Jean.",
+        "4": "...am I depressed or am I just bored?",
+        "Correct": "2",
+        "numAnswers": "4",
+        "Lesson": "For Elise - Saint Motel",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Am I depressed or am I just bored...",
+        "1": "...time to face up to the inevitable.",
+        "2": "...and my therapist hates me.",
+        "3": "....maybe I'm broken, but I'm not sure.",
+        "4": "...apathy and irony, post-modern anxiety.",
+        "5": "...rose tinted glasses, it must be nice.",
+        "Correct": "4",
+        "numAnswers": "5",
+        "Lesson": "PMA (feat. Pale Waves) - All Time Low",
+        "LessonImage": ""
+    }
+]

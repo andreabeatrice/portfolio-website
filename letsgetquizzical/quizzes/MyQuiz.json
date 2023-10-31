@@ -1,0 +1,49 @@
+[
+    {
+        "QuizName": "My Quiz",
+        "QuizDescription": ":)",
+        "QuizTags": "Personal, Silly, Just For Fun"
+    },
+    {
+        "QuestionName": "How much wood would a wood chuck chuck if a wood chuck could chuck wood?",
+        "1": "Wouldn't you like to know",
+        "2": "82",
+        "3": "14",
+        "4": "Chuck Norris",
+        "Correct": "4",
+        "numAnswers": "4",
+        "Lesson": ":P",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "If a tree falls in the forest and there's no one around, does it make a sound?",
+        "1": "Yes",
+        "2": "No",
+        "3": "Yes, but no one hears it so it doesn't matter",
+        "4": "Yes, it sounds like a lonely tree",
+        "Correct": "1",
+        "numAnswers": "4",
+        "Lesson": ":)",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Should you switch the track for the trolley problem?",
+        "1": "Yes",
+        "2": "No",
+        "Correct": "1",
+        "numAnswers": "2",
+        "Lesson": ";(",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Who is my favourite singer?",
+        "1": "Freddie Mercury",
+        "2": "Taylor Swift",
+        "3": "Phoebe Bridgers",
+        "4": "Stevie Nicks",
+        "Correct": "2",
+        "numAnswers": "4",
+        "Lesson": "=D",
+        "LessonImage": ""
+    }
+]

@@ -1,0 +1,150 @@
+[
+    {
+        "QuizName": "Wendy\u2019s 80s Music Trivia Quiz",
+        "QuizDescription": "I give you a song, and you tell me who sang it",
+        "QuizTags": "music, trivia, lyrics, 80s"
+    },
+    {
+        "QuestionName": "Beat It",
+        "1": "The Cure",
+        "2": "Bon Jovi",
+        "3": "Michael Jackson",
+        "4": "The Eagles",
+        "Correct": "3",
+        "numAnswers": "4",
+        "Lesson": "Beat It is a song by American singer Michael Jackson from his sixth studio album, Thriller (1982).",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Wake Me Up Before You Go-Go",
+        "1": "Foreigner",
+        "2": "Wham!",
+        "3": "The Smiths",
+        "4": "Journey",
+        "Correct": "2",
+        "numAnswers": "4",
+        "Lesson": "Wake Me Up Before You Go-Go is a song by the English duo Wham!, first released as a single in the UK on 14 May 1984",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Sweet Child O\u2019 Mine",
+        "1": "Guns 'n Roses",
+        "2": "Aerosmith",
+        "3": "The Rolling Stones",
+        "4": "Iron Madien",
+        "Correct": "1",
+        "numAnswers": "4",
+        "Lesson": "Sweet Child o' Mine is a song by American rock band Guns N' Roses. It appeared on their debut album Appetite for Destruction. ",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Don\u2019t Stop Believin\u2019",
+        "1": "R.E.M.",
+        "2": "Duran Duran",
+        "3": "The Eagles",
+        "4": "Journey",
+        "Correct": "4",
+        "numAnswers": "4",
+        "Lesson": "Don't Stop Believin' is a song by American rock band Journey, originally released as the second single from their seventh album, Escape (1981).",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Another One Bites the Dust",
+        "1": "Men at Work",
+        "2": "Queen",
+        "3": "Prince",
+        "4": "Whitesnake",
+        "Correct": "2",
+        "numAnswers": "4",
+        "Lesson": "Another One Bites the Dust is a song by the British rock band Queen. Written by bassist John Deacon, the song was featured on the group's eighth studio album The Game (1980).",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Jump",
+        "1": "Van Halen",
+        "2": "Kiss",
+        "3": "The Beatles",
+        "4": "Iron Maiden",
+        "Correct": "1",
+        "numAnswers": "4",
+        "Lesson": "Jump is a song by American rock band Van Halen. It was released in December 1983 as the lead single from their album 1984. It is Van Halen's most successful single, reaching number 1 on the US Billboard Hot 100.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "When Doves Cry",
+        "1": "Prince",
+        "2": "James Bown",
+        "3": "Freddie Mercury",
+        "4": "Madonna",
+        "Correct": "1",
+        "numAnswers": "4",
+        "Lesson": "When Doves Cry is a song by American musician Prince, and the lead single from his sixth studio album Purple Rain. ",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Total Eclipse of the Heart",
+        "1": "Kim Carnes",
+        "2": "Cyndi Lauper",
+        "3": "Bonnie Tyler",
+        "4": "Tina Turner",
+        "Correct": "3",
+        "numAnswers": "4",
+        "Lesson": "Total Eclipse of the Heart is a song recorded by Welsh singer Bonnie Tyler. It was written and produced by Jim Steinman, and released on Tyler's fifth studio album, Faster Than the Speed of Night (1983). ",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Livin\u2019 on a Prayer",
+        "1": "U2",
+        "2": "Nirvana",
+        "3": "Bon Jovi",
+        "4": "Pink Floyd",
+        "Correct": "3",
+        "numAnswers": "4",
+        "Lesson": "Livin' on a Prayer is a song by the American rock band Bon Jovi, and is the band's second chart-topping single from their third album Slippery When Wet. ",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "I Wanna Dance with Somebody (Who Loves Me)",
+        "1": "Tina Turner",
+        "2": "Celine Dion",
+        "3": "Eurythmics",
+        "4": "Whitney Houston",
+        "Correct": "4",
+        "numAnswers": "4",
+        "Lesson": "I Wanna Dance with Somebody (Who Loves Me) is a song recorded by American singer Whitney Houston for her second studio album, Whitney.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "All Night Long (All Night)",
+        "1": "The Commodores",
+        "2": "Diana Ross",
+        "3": "Marvin Gaye",
+        "4": "Lionel Riche",
+        "Correct": "4",
+        "numAnswers": "4",
+        "Lesson": "All Night Long (All Night) is a hit single by American singer Lionel Richie from 1983. Taken from his second solo album, Can't Slow Down, it combined Richie's soulful Commodores style with Caribbean influences.",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Down Under",
+        "1": "The Fratellis",
+        "2": "Men at Work",
+        "3": "Men Without Hats",
+        "4": "Kenny Loggins",
+        "Correct": "2",
+        "numAnswers": "4",
+        "Lesson": "Down Under is a song recorded by Australian rock band Men at Work. It was originally released in 1980 as the B-side to their first local single titled Keypunch Operator, released before the band signed with Columbia Records. Both early songs were written by the group's co-founders, Colin Hay and Ron Strykert. ",
+        "LessonImage": ""
+    },
+    {
+        "QuestionName": "Back in Black",
+        "1": "AC\/DC",
+        "2": "Led Zepplin",
+        "3": "Black Sabbath",
+        "4": "Metallica",
+        "Correct": "1",
+        "numAnswers": "4",
+        "Lesson": "Back in Black is the seventh studio album by Australian rock band AC\/DC. It was released on 25 July 1980 by Albert Productions and Atlantic Records. It is the band's first album to feature lead singer Brian Johnson, following the death of previous lead singer Bon Scott.",
+        "LessonImage": ""
+    }
+]
